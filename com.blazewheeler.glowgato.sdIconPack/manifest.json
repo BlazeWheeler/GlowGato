@@ -1,0 +1,9 @@
+{
+    "Name": "Glow Gato",
+    "Version": "1.0.0",
+    "Description": "\nIntroducing \"Glow Gato\" – the ultimate Elgato Stream Deck Icon Pack:\n\nFuturistic Neon Glow: Elevate your stream deck with a captivating neon glow for a sleek and sophisticated look.\n\nOver 300 Icons: A comprehensive collection catering to streamers, software developers, and everyday users.\n\nStreamers' Paradise: Icons for popular platforms like Twitch, OBS, TipeeeStream, Xsplit, Kick, and YouTube.\n\nDeveloper-Friendly: Tailored icons for leading IDEs including Visual Studio Code, Visual Studio, Xcode, Android Studio, Eclipse, and IntelliJ IDEs.\n\nMultilingual Coding: Representing a variety of programming languages – C, C++, C#, Python, Java, Kotlin, Dart, Flutter, JavaScript, TypeScript, HTML, CSS, XML, Markdown, YML, PHP, React, NodeJS, SQL, and more.\n\nDynamic Aesthetics: Transform your workspace with dynamic and vibrant icons that enhance both your streaming and coding experience.\n\n\"Glow Gato\" is more than an icon pack; it's a visual upgrade for your Elgato Stream Deck, offering a futuristic command center that reflects your unique style and passion.",
+    "Author": "Elgato Systems",
+    "URL": "https://github.com/BlazeWheeler/GlowGato",
+    "Icon": "icon.png",
+    "License": "license.txt"
+}

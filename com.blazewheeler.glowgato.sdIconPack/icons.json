@@ -1,0 +1,1567 @@
+[
+    {
+        "path": "Elgato_YouTube_Key.png",
+        "name": "YouTube_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Xcode_Key.png",
+        "name": "Elgato_Xcode_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_WhatsApp_Key.png",
+        "name": "Elgato_WhatsApp_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_WebStorm_Key.png",
+        "name": "Elgato_WebStorm_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_VolumeUp_Key.png",
+        "name": "Elgato_VolumeUp_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_VisualStudioRefTag_Key.png",
+        "name": "Elgato_VisualStudioRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_VisualStudioCodeRefTag_Key.png",
+        "name": "Elgato_VisualStudioCodeRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_VisualStudio_Key.png",
+        "name": "Elgato_VisualStudio_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Vim_Key.png",
+        "name": "Elgato_Vim_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_VideoCamera_Key.png",
+        "name": "Elgato_VideoCamera_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Unity_Key.png",
+        "name": "Elgato_Unity_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_TwitchSwtich_Key.png",
+        "name": "Elgato_TwitchSwtich_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_TwitchFolder_Key.png",
+        "name": "Elgato_TwitchFolder_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ToolsRefTag_Key.png",
+        "name": "Elgato_ToolsRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ToggleSlowChatInactive_Key.png",
+        "name": "Elgato_ToggleSlowChatInactive_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ToggleSceneElement_Key.png",
+        "name": "Elgato_ToggleSceneElement_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ToggleRecording_Key.png",
+        "name": "Elgato_ToggleRecording_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ToggleOBSMixer.png",
+        "name": "Elgato_ToggleOBSMixer.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ToggleMicrophoneOff_Key.png",
+        "name": "Elgato_ToggleMicrophoneOff_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ToggleGameTitle_Key.png",
+        "name": "Elgato_ToggleGameTitle_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ToggleCreateClip.png",
+        "name": "Elgato_ToggleCreateClip.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_TikTok_Key.png",
+        "name": "Elgato_TikTok_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_TerminalALT_Key.png",
+        "name": "Elgato_TerminalALT_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Telegram_Key.png",
+        "name": "Elgato_Telegram_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_SystemStopPlay_Key.png",
+        "name": "Elgato_SystemStopPlay_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_SystemLaunch_Key.png",
+        "name": "Elgato_SystemLaunch_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_SystemBack_Key.png",
+        "name": "Elgato_SystemBack_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Swift_Key.png",
+        "name": "Elgato_Swift_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_StreamSpinwheel_Key.png",
+        "name": "Elgato_StreamSpinwheel_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_StreamLabsUnmute_Key.png",
+        "name": "Elgato_StreamLabsUnmute_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_StreamLabsProfile_Key.png",
+        "name": "Elgato_StreamLabsProfile_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_StreamLabsEmptyjar_Key.png",
+        "name": "Elgato_StreamLabsEmptyjar_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_StreamingPlayAd_Key.png",
+        "name": "Elgato_StreamingPlayAd_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_StopDebugger_Key.png",
+        "name": "Elgato_StopDebugger_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_StepOnto_Key.png",
+        "name": "Elgato_StepOnto_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_StartDebug_Key.png",
+        "name": "Elgato_StartDebug_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_SQLDabase_Key.png",
+        "name": "Elgato_SQLDabase_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_SparkAr_Key.png",
+        "name": "Elgato_SparkAr_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Snapchat_Key.png",
+        "name": "Elgato_Snapchat_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Skype_Key.png",
+        "name": "Elgato_Skype_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ScreenShot_key.png",
+        "name": "Elgato_ScreenShot_key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Safari_Key.png",
+        "name": "Elgato_Safari_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_RunToDebugger_Key.png",
+        "name": "Elgato_RunToDebugger_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Rumble_Key.png",
+        "name": "Elgato_Rumble_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Rider_Key.png",
+        "name": "Elgato_Rider_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Reddit_Key.png",
+        "name": "Elgato_Reddit_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ReactRefTag.png",
+        "name": "Elgato_ReactRefTag.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Python_Key.png",
+        "name": "Elgato_Python_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_PullRequest_Key.png",
+        "name": "Elgato_PullRequest_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_PreviousTabGroup_Key.png",
+        "name": "Elgato_PreviousTabGroup_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_PowerShell_Key.png",
+        "name": "Elgato_PowerShell_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_PlayStation__Key.png",
+        "name": "Elgato_PlayStation__Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Pintrest_Key.png",
+        "name": "Elgato_Pintrest_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_PhpRefTag.png",
+        "name": "Elgato_PhpRefTag.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_PauseDebugger_Key.png",
+        "name": "Elgato_PauseDebugger_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Option_Key.png",
+        "name": "Elgato_Option_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_OpenLastCreateClip_Key.png",
+        "name": "Elgato_OpenLastCreateClip_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_OneNote_Key.png",
+        "name": "Elgato_OneNote_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_NodeJs_Key.png",
+        "name": "Elgato_NodeJs_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Next_Key.png",
+        "name": "Elgato_Next_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_NewFolder_Key.png",
+        "name": "Elgato_NewFolder_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Netbeans_Key.png",
+        "name": "Elgato_Netbeans_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_MonitorSettings_Key.png",
+        "name": "Elgato_MonitorSettings_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_MonitorHeadset_Key.png",
+        "name": "Elgato_MonitorHeadset_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Monitor_Key.png",
+        "name": "Elgato_Monitor_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_MixerShowViewersInactive_Key.png",
+        "name": "Elgato_MixerShowViewersInactive_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_MixerPostMessage_Key.png",
+        "name": "Elgato_MixerPostMessage_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_MircosoftMonitor_Key.png",
+        "name": "Elgato_MircosoftMonitor_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_MicrosoftWord_Key.png",
+        "name": "Elgato_MicrosoftWord_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_MicrosoftTeams_Key.png",
+        "name": "Elgato_MicrosoftTeams_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Microsoft365_Key.png",
+        "name": "Elgato_Microsoft365_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Messenger_Key.png",
+        "name": "Elgato_Messenger_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_LowerCase_Key.png",
+        "name": "Elgato_LowerCase_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_LinuxRefTag_Key.png",
+        "name": "Elgato_LinuxRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_LinkedIn_Key.png",
+        "name": "Elgato_LinkedIn_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Lamp_Key.png",
+        "name": "Elgato_Lamp_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Kick_Key.png",
+        "name": "Elgato_Kick_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_JavaScript_Key.png",
+        "name": "Elgato_JavaScript_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_JavaProfile_Key.png",
+        "name": "Elgato_JavaProfile_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_IntelliJ_Key.png",
+        "name": "Elgato_IntelliJ_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InspectCode_Key.png",
+        "name": "Elgato_InspectCode_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertXMLSnippet_Key.png",
+        "name": "Elgato_InsertXMLSnippet_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertSQL_Snippet.png",
+        "name": "Elgato_InsertSQL_Snippet.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertRubySnippet.png",
+        "name": "Elgato_InsertRubySnippet.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertPowershellSnippet_Key.png",
+        "name": "Elgato_InsertPowershellSnippet_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertPerlSnippet_Key.png",
+        "name": "Elgato_InsertPerlSnippet_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertJavaScriptSnippet_Key.png",
+        "name": "Elgato_InsertJavaScriptSnippet_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertCSSSnippet_Key.png",
+        "name": "Elgato_InsertCSSSnippet_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertCppSnippet.png",
+        "name": "Elgato_InsertCppSnippet.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Hulu_Key.png",
+        "name": "Elgato_Hulu_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_HotKeyToggleOff.png",
+        "name": "Elgato_HotKeyToggleOff.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_HeadsetSettings_Key.png",
+        "name": "Elgato_HeadsetSettings_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GTA_Key.png",
+        "name": "Elgato_GTA_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GoogleSlides_Key.png",
+        "name": "Elgato_GoogleSlides_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GoogleScholary_Key.png",
+        "name": "Elgato_GoogleScholary_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GooglePlayStore_Key.png",
+        "name": "Elgato_GooglePlayStore_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GoogleForms_Key.png",
+        "name": "Elgato_GoogleForms_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GoogleDocs_Key.png",
+        "name": "Elgato_GoogleDocs_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GoogleCloudFunctions_Key.png",
+        "name": "Elgato_GoogleCloudFunctions_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GoogleBard_Key.png",
+        "name": "Elgato_GoogleBard_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GOLang_Key.png",
+        "name": "Elgato_GOLang_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GlobeRefTag_Key.png",
+        "name": "Elgato_GlobeRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GitRefTag_Key.png",
+        "name": "Elgato_GitRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GitLabRefTag.png",
+        "name": "Elgato_GitLabRefTag.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Github_Key.png",
+        "name": "Elgato_Github_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Gaming_Icon.png",
+        "name": "Elgato_Gaming_Icon.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GameRefTag_Key.png",
+        "name": "Elgato_GameRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_FollowersOnlyChat_Key.png",
+        "name": "Elgato_FollowersOnlyChat_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Flutter_Key.png",
+        "name": "Elgato_Flutter_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_FlashBackRecordInactive.png",
+        "name": "Elgato_FlashBackRecordInactive.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_FireFoxNightly_Key.png",
+        "name": "Elgato_FireFoxNightly_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_FaceTime_Key.png",
+        "name": "Elgato_FaceTime_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_EpicGames_Key.png",
+        "name": "Elgato_EpicGames_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Emacs_Key.png",
+        "name": "Elgato_Emacs_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Eclipse_Key.png",
+        "name": "Elgato_Eclipse_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Document_Key.png",
+        "name": "Elgato_Document_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Docker_Key.png",
+        "name": "Elgato_Docker_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_DiskUtility_Key.png",
+        "name": "Elgato_DiskUtility_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_DisconnectDebug_Key.png",
+        "name": "Elgato_DisconnectDebug_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_DebugStepOut.png",
+        "name": "Elgato_DebugStepOut.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_DebugSettings.png",
+        "name": "Elgato_DebugSettings.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_DebugCusor_Key.png",
+        "name": "Elgato_DebugCusor_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_DataSpell_Key.png",
+        "name": "Elgato_DataSpell_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Database_Key.png",
+        "name": "Elgato_Database_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Dart_Key.png",
+        "name": "Elgato_Dart_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_CustomTriggerHotkey_Key.png",
+        "name": "Elgato_CustomTriggerHotkey_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_CSharpRefTag_Key.png",
+        "name": "Elgato_CSharpRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_CRefTag_Key.png",
+        "name": "Elgato_CRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Cpp_Key.png",
+        "name": "Elgato_Cpp_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ConfigRefTag_Key.png",
+        "name": "Elgato_ConfigRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Command_Key.png",
+        "name": "Elgato_Command_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_CodePen_Logo.png",
+        "name": "Elgato_CodePen_Logo.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_CodeFile_Key.png",
+        "name": "Elgato_CodeFile_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ClosedFolder_Key.png",
+        "name": "Elgato_ClosedFolder_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Clion_Key.png",
+        "name": "Elgato_Clion_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_CLang_Key.png",
+        "name": "Elgato_CLang_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Chrome_Key.png",
+        "name": "Elgato_Chrome_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Camera_Key.png",
+        "name": "Elgato_Camera_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_BuildSettings_Key.png",
+        "name": "Elgato_BuildSettings_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_BrowserWindow_Key.png",
+        "name": "Elgato_BrowserWindow_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_BrodcastOn_Key.png",
+        "name": "Elgato_BrodcastOn_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_BrightnessLow_Key.png",
+        "name": "Elgato_BrightnessLow_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_BrightnessDownKey_Key.png",
+        "name": "Elgato_BrightnessDownKey_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Brackets_Key.png",
+        "name": "Elgato_Brackets_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Atom_Key.png",
+        "name": "Elgato_Atom_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ArrowRight_Key.png",
+        "name": "Elgato_ArrowRight_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ArrowDown_Key.png",
+        "name": "Elgato_ArrowDown_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_AppStore_Key.png",
+        "name": "Elgato_AppStore_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_AppleNews_Logo.png",
+        "name": "Elgato_AppleNews_Logo.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_AppleLogo_Key.png",
+        "name": "Elgato_AppleLogo_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ApacheNetbeans_Key.png",
+        "name": "Elgato_ApacheNetbeans_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_AndroidStudio_Key.png",
+        "name": "Elgato_AndroidStudio_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_AdobePs_Key.png",
+        "name": "Elgato_AdobePs_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_AdobeID_Key.png",
+        "name": "Elgato_AdobeID_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_AdobeAero_Key.png",
+        "name": "Elgato_AdobeAero_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elagto_PowerShellRefTag_Key.png",
+        "name": "Elagto_PowerShellRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elagto_Crown_Key.png",
+        "name": "Elagto_Crown_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elagto_Pentagon_Key.png",
+        "name": "Elagto_Pentagon_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_AdobeAE_Key.png",
+        "name": "Elgato_AdobeAE_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_AdobeAI_KEy.png",
+        "name": "Elgato_AdobeAI_KEy.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_AdobePr_Key.png",
+        "name": "Elgato_AdobePr_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_AdobeXd_Key.png",
+        "name": "Elgato_AdobeXd_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Angular_Key.png",
+        "name": "Elgato_Angular_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_AppleFindMy_Key.png",
+        "name": "Elgato_AppleFindMy_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_AppleMusic_Key.png",
+        "name": "Elgato_AppleMusic_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ApplicationUtils_Key.png",
+        "name": "Elgato_ApplicationUtils_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Arduino_Key.png",
+        "name": "Elgato_Arduino_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ArrowLeft.png",
+        "name": "Elgato_ArrowLeft.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ArrowUp_Key.png",
+        "name": "Elgato_ArrowUp_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Blender_key.png",
+        "name": "Elgato_Blender_key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_BranchCode_Key.png",
+        "name": "Elgato_BranchCode_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_BrightnessHigh_Key.png",
+        "name": "Elgato_BrightnessHigh_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_BrightnessUp_Key.png",
+        "name": "Elgato_BrightnessUp_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_BrowserDebugger_Key.png",
+        "name": "Elgato_BrowserDebugger_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Build_Key.png",
+        "name": "Elgato_Build_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_CallofDutyBlackOps_Key.png",
+        "name": "Elgato_CallofDutyBlackOps_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ChatGPT_Key.png",
+        "name": "Elgato_ChatGPT_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ChromeRemoteDesktop_Key.png",
+        "name": "Elgato_ChromeRemoteDesktop_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_CleanBuild_Key.png",
+        "name": "Elgato_CleanBuild_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Clock_Key.png",
+        "name": "Elgato_Clock_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_CodeDocument_Key.png",
+        "name": "Elgato_CodeDocument_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_CodeFolder_Key.png",
+        "name": "Elgato_CodeFolder_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_CodeReview_Key.png",
+        "name": "Elgato_CodeReview_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_CommandRefTag_Key.png",
+        "name": "Elgato_CommandRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ConfigWindow_Key.png",
+        "name": "Elgato_ConfigWindow_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_CppRefTag_Key.png",
+        "name": "Elgato_CppRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Csharp_Key.png",
+        "name": "Elgato_Csharp_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_CSSRefTag_Key.png",
+        "name": "Elgato_CSSRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_DarkTable_Key.png",
+        "name": "Elgato_DarkTable_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_DartRef_Key.png",
+        "name": "Elgato_DartRef_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_DataGrip_Key.png",
+        "name": "Elgato_DataGrip_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_DebugConsle_Key.png",
+        "name": "Elgato_DebugConsle_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_DebugScript_Key.png",
+        "name": "Elgato_DebugScript_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_DebugStart_key.png",
+        "name": "Elgato_DebugStart_key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_DebugStepOver_Key.png",
+        "name": "Elgato_DebugStepOver_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Discord_Key.png",
+        "name": "Elgato_Discord_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_DNALock_Key.png",
+        "name": "Elgato_DNALock_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_DockerRefTag_Key.png",
+        "name": "Elgato_DockerRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_DreamWeaver_Key.png",
+        "name": "Elgato_DreamWeaver_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Edge_Key.png",
+        "name": "Elgato_Edge_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_EmptyRefTag_Key.png",
+        "name": "Elgato_EmptyRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Facebook_Key.png",
+        "name": "Elgato_Facebook_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_FireFox_Key.png",
+        "name": "Elgato_FireFox_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_FlashbackRecordActive_Key.png",
+        "name": "Elgato_FlashbackRecordActive_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_FlashBackRecordingInactive_Key.png",
+        "name": "Elgato_FlashBackRecordingInactive_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_FlutterRefTag.png",
+        "name": "Elgato_FlutterRefTag.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Fortnite_Key.png",
+        "name": "Elgato_Fortnite_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GameWindow_Key.png",
+        "name": "Elgato_GameWindow_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Git_Key.png",
+        "name": "Elgato_Git_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GitLab_Key.png",
+        "name": "Elgato_GitLab_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GitProjectStructure_Key.png",
+        "name": "Elgato_GitProjectStructure_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Globe_key.png",
+        "name": "Elgato_Globe_key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Go_Key.png",
+        "name": "Elgato_Go_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Google_Key.png",
+        "name": "Elgato_Google_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GoogleCloud_Key.png",
+        "name": "Elgato_GoogleCloud_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GoogleDeveloper_Key.png",
+        "name": "Elgato_GoogleDeveloper_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GoogleDrive_Key.png",
+        "name": "Elgato_GoogleDrive_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GoogleMeet_Key.png",
+        "name": "Elgato_GoogleMeet_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GooglePodcasts_Key.png",
+        "name": "Elgato_GooglePodcasts_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GoogleSheets_Key.png",
+        "name": "Elgato_GoogleSheets_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_GoogleTranslate_Key.png",
+        "name": "Elgato_GoogleTranslate_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Headset_key.png",
+        "name": "Elgato_Headset_key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Hexagon_Key.png",
+        "name": "Elgato_Hexagon_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_HTMLRefTag_Key.png",
+        "name": "Elgato_HTMLRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertCodeSnippet_Key.png",
+        "name": "Elgato_InsertCodeSnippet_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertCSnippet_Key.png",
+        "name": "Elgato_InsertCSnippet_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertHTMLSnippet_Key.png",
+        "name": "Elgato_InsertHTMLSnippet_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertMarkDownSnipper_Key.png",
+        "name": "Elgato_InsertMarkDownSnipper_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertPhpSinppet_Key.png",
+        "name": "Elgato_InsertPhpSinppet_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertPythonSnippet_Key.png",
+        "name": "Elgato_InsertPythonSnippet_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertShellSnippet_Key.png",
+        "name": "Elgato_InsertShellSnippet_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertTypeScriptSnippet_Key.png",
+        "name": "Elgato_InsertTypeScriptSnippet_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_InsertYMLSnippet_Key.png",
+        "name": "Elgato_InsertYMLSnippet_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Instagram_Key.png",
+        "name": "Elgato_Instagram_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Java_Key.png",
+        "name": "Elgato_Java_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_JavaRefTag_key.png",
+        "name": "Elgato_JavaRefTag_key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_JavaScriptRefTag_Key.png",
+        "name": "Elgato_JavaScriptRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Kotlin_Key.png",
+        "name": "Elgato_Kotlin_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_LikeIcon_Key.png",
+        "name": "Elgato_LikeIcon_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Linux_Key.png",
+        "name": "Elgato_Linux_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_LinuxWindow_Key.png",
+        "name": "Elgato_LinuxWindow_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Messages_Key.png",
+        "name": "Elgato_Messages_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Microsoft_Key.png",
+        "name": "Elgato_Microsoft_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_MicrosoftExcel_Key.png",
+        "name": "Elgato_MicrosoftExcel_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_MicrosoftVizio_Key.png",
+        "name": "Elgato_MicrosoftVizio_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Minecraft_Key.png",
+        "name": "Elgato_Minecraft_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_MixerClearChat_Key.png",
+        "name": "Elgato_MixerClearChat_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_MixerShowViewers.png",
+        "name": "Elgato_MixerShowViewers.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ModernWarfare_Key.png",
+        "name": "Elgato_ModernWarfare_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_MonitorGlobe_Key.png",
+        "name": "Elgato_MonitorGlobe_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_MonitorLinux_Key.png",
+        "name": "Elgato_MonitorLinux_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Mute_Key.png",
+        "name": "Elgato_Mute_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Netflix_Key.png",
+        "name": "Elgato_Netflix_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_NewTabGroup_Key.png",
+        "name": "Elgato_NewTabGroup_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_NextTabGroup.png",
+        "name": "Elgato_NextTabGroup.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_NodeJSRefTag_Key.png",
+        "name": "Elgato_NodeJSRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_OpenFolder_Key.png",
+        "name": "Elgato_OpenFolder_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Opera_Key.png",
+        "name": "Elgato_Opera_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Outlook_Key.png",
+        "name": "Elgato_Outlook_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_PHP_Key.png",
+        "name": "Elgato_PHP_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_PhpStorm_Key.png",
+        "name": "Elgato_PhpStorm_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_PlayPause_Key.png",
+        "name": "Elgato_PlayPause_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Powerpoint_Key.png",
+        "name": "Elgato_Powerpoint_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Previous_Key.png",
+        "name": "Elgato_Previous_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_PropertiesSettings_Key.png",
+        "name": "Elgato_PropertiesSettings_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Pycharm_Key.png",
+        "name": "Elgato_Pycharm_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_React_Key.png",
+        "name": "Elgato_React_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Rebuild_Key.png",
+        "name": "Elgato_Rebuild_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_RemoteDesktop_Key.png",
+        "name": "Elgato_RemoteDesktop_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_RubyMine_Key.png",
+        "name": "Elgato_RubyMine_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_RunApp_Key.png",
+        "name": "Elgato_RunApp_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Rust_Key.png",
+        "name": "Elgato_Rust_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ScreenRecord_Key.png",
+        "name": "Elgato_ScreenRecord_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Sims_Key.png",
+        "name": "Elgato_Sims_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_SLOBRecording_Key.png",
+        "name": "Elgato_SLOBRecording_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Soundcloud_Key.png",
+        "name": "Elgato_Soundcloud_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Spotify_Key.png",
+        "name": "Elgato_Spotify_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_SqlRefTag_Key.png",
+        "name": "Elgato_SqlRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Steam_Key.png",
+        "name": "Elgato_Steam_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_StopApp_Key.png",
+        "name": "Elgato_StopApp_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_StreamDeckRefTag_Key.png",
+        "name": "Elgato_StreamDeckRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_StreamLabsCredits_Key.png",
+        "name": "Elgato_StreamLabsCredits_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_StreamLabsHideMediaSharing_Key.png",
+        "name": "Elgato_StreamLabsHideMediaSharing_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_StreamLabsShowMediaSharing_Key.png",
+        "name": "Elgato_StreamLabsShowMediaSharing_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_StreamLabsUnpause_Key.png",
+        "name": "Elgato_StreamLabsUnpause_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_SublimeText_Key.png",
+        "name": "Elgato_SublimeText_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_SwiftRefTag_Key.png",
+        "name": "Elgato_SwiftRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_SystemDuration_Key.png",
+        "name": "Elgato_SystemDuration_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_SystemMultiAction_Key.png",
+        "name": "Elgato_SystemMultiAction_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_SystemText_Key.png",
+        "name": "Elgato_SystemText_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Terminal_2_Key.png",
+        "name": "Elgato_Terminal_2_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_TerminalWindow_Key.png",
+        "name": "Elgato_TerminalWindow_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_TimeStamp_Key.png",
+        "name": "Elgato_TimeStamp_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ToggleEmoteChat.png",
+        "name": "Elgato_ToggleEmoteChat.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ToggleHotkey_Key.png",
+        "name": "Elgato_ToggleHotkey_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ToggleMicrophoneOn_Key.png",
+        "name": "Elgato_ToggleMicrophoneOn_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ToggleOBSStreaming_Key.png",
+        "name": "Elgato_ToggleOBSStreaming_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ToggleRecording1_Key.png",
+        "name": "Elgato_ToggleRecording1_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ToggleSlowChat_Key.png",
+        "name": "Elgato_ToggleSlowChat_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_ToggleStreamingInactive_Key.png",
+        "name": "Elgato_ToggleStreamingInactive_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Twitch_Key.png",
+        "name": "Elgato_Twitch_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_TwitchPostMessage_Key.png",
+        "name": "Elgato_TwitchPostMessage_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_TypeScript_Key.png",
+        "name": "Elgato_TypeScript_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_UpperCase_Key.png",
+        "name": "Elgato_UpperCase_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_VideoRefTag_Key.png",
+        "name": "Elgato_VideoRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_VisualCdeRefTag_Key.png",
+        "name": "Elgato_VisualCdeRefTag_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_VisualStudioCodeProfile_Key.png",
+        "name": "Elgato_VisualStudioCodeProfile_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_VisualStudioProfile_Key.png",
+        "name": "Elgato_VisualStudioProfile_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_VolumeDown_Key.png",
+        "name": "Elgato_VolumeDown_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Warning_Key.png",
+        "name": "Elgato_Warning_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_WeChat_Key.png",
+        "name": "Elgato_WeChat_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_Xbox_Key.png",
+        "name": "Elgato_Xbox_Key.png",
+        "tags": []
+    },
+    {
+        "path": "Elgato_XplitMediaSource_Key.png",
+        "name": "Elgato_XplitMediaSource_Key.png",
+        "tags": []
+    }
+]

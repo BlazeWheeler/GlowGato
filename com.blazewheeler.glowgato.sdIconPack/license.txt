@@ -1,0 +1,2 @@
+Copyright 2023 Blaze Wheeler, other contributors
+Licensed under the MIT License: http://opensource.org/licenses/MIT
