@@ -18,6 +18,7 @@
   </a>
 
   <h3 align="center">Glow Gato</h3>
+  [![GitHub release](https://img.shields.io/github/release/BlazWheeler/GlowGato.svg)](https://github.com/BlazeWheeler/GlowGato/branches)
 
   <p align="center">
    The Ultimate Elgato Stream Deck Icon Pack
