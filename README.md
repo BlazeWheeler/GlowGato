@@ -18,7 +18,7 @@
   </a>
 
   <h3 align="center">Glow Gato</h3>
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+
 
   <p align="center">
    The Ultimate Elgato Stream Deck Icon Pack
