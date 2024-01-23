@@ -2,11 +2,13 @@
 
 <!-- PROJECT SHIELDS -->
 [![Apple-Silicon-Shield]][Apple-Silicon-Shield-url]
-[![MIT License][license-shield]][license-url]
+[![Apache][license-shield]][license-url]
 ![Duq-badge](https://custom-icon-badges.demolab.com/badge/-Duquesne%20University-ba0c2f?style=for-the-badge&logo=duquesne_dukes_logo1)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][GitHub-shield]][GitHub-url]
+
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -87,29 +89,23 @@ Getting started is fairly simple...
 
 <!-- LICENSE -->
 
-# Released Under MIT License
+# Released Under Apache License License
 
-Copyright (c) 2024 Blaze Wheeler,
+Copyright [2024] [Blaze Wheeler]
 
-Permission is hereby granted, free of charge, to any person
-obtaining a copy of this software and associated documentation
-files (the "Software"), to deal in the Software without
-restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following
-conditions:
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
+    http://www.apache.org/licenses/LICENSE-2.0
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
-OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+ THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE. SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,8 +122,8 @@ Blaze Wheeler - [@blazew](https://www.instagram.com/blazew/) - wheelerb2@duq.edu
 [Apple-Silicon-Shield]: https://img.shields.io/badge/Apple-Silicon_M2-999999?style=for-the-badge&logo=apple&logoColor=white
 [Apple-Silicon-Shield-url]: https://support.apple.com/en-us/HT211814
 
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://www.mit.edu/~amini/LICENSE.md
+[license-shield]: https://img.shields.io/badge/License-Apache%202.0-orange?style=for-the-badge&logo=
+[license-url]:https://www.apache.org/licenses/LICENSE-2.0
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 [linkedin-url]:https://www.linkedin.com/in/blaze-wheeler-8306a2223/
