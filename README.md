@@ -91,7 +91,7 @@ Getting started is fairly simple...
 
 # Released Under Apache License License
 
-Copyright [2024] [Blaze Wheeler]
+Copyright (c) 2024 Blaze Wheeler
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
