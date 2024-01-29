@@ -13,7 +13,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="">
+  <a href="https://marketplace.elgato.com/product/glow-gato-4a38bdb6-59ad-43f9-9020-5ce6a72b2089
+">
     <img src="com.blazewheeler.glowgato.sdIconPack/icon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -61,7 +62,7 @@ Getting started is fairly simple...
 
 ### Option 1
 
-* Get From Elgato Marketplace
+* Get From <a href="https://marketplace.elgato.com/product/glow-gato-4a38bdb6-59ad-43f9-9020-5ce6a72b2089">Elgato Marketplace</a>
 
 ### Option 2
 
