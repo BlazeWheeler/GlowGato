@@ -115,7 +115,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 <!-- CONTACT -->
 ## Contact
 
-Blaze Wheeler - [@blazew](https://www.instagram.com/blazew/) - wheelerb2@duq.edu
+Blaze Wheeler - [@blazew] - blaze@blazew.me
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
