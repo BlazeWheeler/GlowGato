@@ -113,9 +113,17 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 
 <!-- CONTACT -->
+
+<!-- CONTACT -->
+## Icon Requests
+Create an issue, in the desc please add name and/or resources to requested icon.
+
+
+
+
 ## Contact
 
-Blaze Wheeler - [@blazew](https://www.instagram.com/blazew/) - wheelerb2@duq.edu
+Blaze Wheeler  - blaze@blazew.me
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
