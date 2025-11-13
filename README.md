@@ -7,6 +7,8 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][GitHub-shield]][GitHub-url]
+![Elgato Downloads](https://img.shields.io/badge/dynamic/json?url=https://mp-gateway.elgato.com/organizations/b8e94def-24f6-4ffc-b446-7a5841a17419/products?slug=glow-gato-4a38bdb6-59ad-43f9-9020-5ce6a72b2089&label=Elgato%20Downloads&query=results[0].download_count&color=blue)
+
 
 
 
